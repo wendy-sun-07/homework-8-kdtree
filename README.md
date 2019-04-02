@@ -3,6 +3,8 @@ Making a k-d Tree
 
 **University of Pennsylvania, CIS 561: Advanced Computer Graphics, Homework 8**
 
+Wendy Sun (wentings)
+
 Overview
 ------------
 You will implement a k-d tree in a standalone application. Your tree will store
